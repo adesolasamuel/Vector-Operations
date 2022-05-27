@@ -2,7 +2,7 @@
  * VectorOperation.cpp
  *
  *  Created on: 5 May 2022
- *      Author: Sam
+ *      Author: Samuel Adesola
  */
 
 #include <math.h>
@@ -218,4 +218,4 @@ VectorOperation::~VectorOperation() {
 	// TODO Auto-generated destructor stub
 }
 
-} /* namespace sam */
+} /* namespace vec */
